@@ -6,8 +6,8 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** para criar e personalizar ca
 
 - Criar cartas personalizadas
 - Editar nome, atributos e informações da carta
-- Alterar imagem da carta
 - Interface inspirada no jogo original
+- Entretenimento ao público 
 
 ## 🚀 Tecnologias
 
@@ -28,4 +28,4 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** para criar e personalizar ca
 
 ## 👨‍💻 Autor
 
-Gabriel
+Gabriel Levy
