@@ -13,7 +13,7 @@ body{
 }
 
 .card{
-    background-image: url(assets/img/texturas-card/Textures/Ritual\ Texture.png);
+    background-image: url(assets/img/Textures/Ritual\ Texture.png);
     display: flex;
     flex-direction: column;
     width: 250px;
