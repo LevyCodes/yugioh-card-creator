@@ -10,10 +10,12 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #dedede;
+    width: 100%;
+    height: 100%;
 }
 
 .card{
-    background-image: url(assets/img/Textures/Ritual\ Texture.png);
+    background-image: url(assets/img/texturas/Ritual\ Texture.png);
     display: flex;
     flex-direction: column;
     width: 250px;
@@ -26,7 +28,6 @@ body{
         display: flex;
         flex-direction: row;
         align-items: center;
-        /* border:solid 2px rgb(124, 145, 22); */
         padding: 5px;
         box-shadow: rgba(0, 0, 0, 0.657) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
 
@@ -71,7 +72,8 @@ body{
             margin-top: 3px;
             width: 20px;
             height: 20px;
-           
+            box-shadow: rgba(0, 0, 0, 0.605) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+
         }
     }
 
@@ -115,6 +117,20 @@ body{
 
         p{
             font-size: 11px;
+        }
+    }
+}
+
+#card2{
+    background-image: url(assets/img/texturas/Slifer\ Texture.png);
+}
+
+#card3{
+    background-image: url(assets/img/texturas/Ra\ Texture.png);
+
+    .title{
+        h1{
+            font-size: 15px;
         }
     }
 }
